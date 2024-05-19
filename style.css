@@ -44,7 +44,7 @@ main{
 }
 .output-container{
     border: 2px ridge rgb(27, 168, 133);
-    height: 60vh;
+    height: 70vh;
     padding: 1%;
     display: flex;
     background-color: #0c2d33;
